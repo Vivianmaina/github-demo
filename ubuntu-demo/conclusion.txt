@@ -1,0 +1,2 @@
+I would advise against using ubuntu on windows.
+Preferrably use on linux OS as it has limitations
